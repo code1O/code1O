@@ -2,7 +2,7 @@
   <h1>About me 💭</h1>
 </div>
 
-![lofi-gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp3NzQ3NGx3cWhlMWZpcjViMWE2NWNoZm9qZHdmMG8yeXBzZWxqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RgZFvGuI4OxLjuSvRF/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9tajM0Y2pzbGdqMnFhMnoycm16cjA2dWd5eGppdWwxeTlyazRtcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RMwgs5kZqkRyhF24KK/giphy.gif" style="width: 900"/>
 
 <details>
 
@@ -12,9 +12,13 @@
 
 </details>
 
+</section>
+
 - 💻 Python developer
 
 - 📖 Mathematics, physics, quantum mechanics
+
+- 🗺️ Mexican
 
 - 📫 feerperez1214@gmail.com
 
@@ -24,8 +28,7 @@
 - Team working
 - Good communication
 
-<details>
-<summary><h2> Current projects </h2></summary>
+<h1> Current projects </h1>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code1O&repo=scorpion)](https://github.com/code1O/scorpion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code1O&repo=ai_automat)](https://github.com/code1O/ai_automat)
@@ -56,6 +59,17 @@
     </tr>
   </tbody>
 </table>
+
+<details>
+<summary><h1>Usefull videos (spanish)</h1></summary>
+
+## Mejorar lógica de programación
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hulbbKgctSM?si=JsnRqopXI9ScTGO_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Escribir funciones
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yatgY4NpZXE?si=HfzAYx8JW5v5Ilim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
