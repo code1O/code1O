@@ -63,7 +63,9 @@
 <details>
 <summary><h1>Usefull videos (spanish)</h1></summary>
 
-## [![Mejorar lógica de programación](https://img.youtube.com/vi/hulbbKgctSM/0.jpg)](https://www.youtube.com/watch?v=hulbbKgctSM)
+## Mejorar lógica de programación
+
+[![Lógica de programación](https://img.youtube.com/vi/hulbbKgctSM/0.jpg)](https://www.youtube.com/watch?v=hulbbKgctSM)
 
 ## Escribir funciones
 
