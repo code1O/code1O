@@ -16,4 +16,4 @@ jobs:
       - name: Update Readme with current activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DEVELOPER_TOKEN }}
