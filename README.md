@@ -63,13 +63,11 @@
 <details>
 <summary><h1>Usefull videos (spanish)</h1></summary>
 
-## Mejorar lógica de programación
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hulbbKgctSM?si=JsnRqopXI9ScTGO_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## [![Mejorar lógica de programación](https://img.youtube.com/vi/hulbbKgctSM/0.jpg)](https://www.youtube.com/watch?v=hulbbKgctSM)
 
 ## Escribir funciones
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yatgY4NpZXE?si=HfzAYx8JW5v5Ilim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Escribir funciones](https://img.youtube.com/vi/yatgY4NpZXE/0.jpg)](https://www.youtube.com/watch?v=yatgY4NpZXE)
 
 </details>
 
