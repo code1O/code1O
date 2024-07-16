@@ -10,9 +10,9 @@
 
 my current project(s)
 
-[AI task automation](https://github.com/code1O/ai_automation)
+- [AI task automation](https://github.com/code1O/ai_automat)
 
-[Scientifical library](https://github.com/code1O/scorpion)
+- [Scientifical library](https://github.com/code1O/scorpion)
 
 
 <!--
