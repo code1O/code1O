@@ -11,6 +11,7 @@
 my current project(s)
 
 [AI task automation](https://github.com/code1O/ai_automation)
+
 [Scientifical library](https://github.com/code1O/scorpion)
 
 
