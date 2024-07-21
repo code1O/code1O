@@ -1,8 +1,4 @@
-<div style="text-align: center">
-  <h1>About me 💭</h1>
-</div>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9tajM0Y2pzbGdqMnFhMnoycm16cjA2dWd5eGppdWwxeTlyazRtcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RMwgs5kZqkRyhF24KK/giphy.gif" style="width: 900"/>
+![header](Assets/Images/github-header-image.png)
 
 <details>
 
@@ -16,19 +12,103 @@
 
 - 💻 Python developer
 
-- 📖 Mathematics, physics, quantum mechanics
+  
+- 📖 Learning</summary>
+
+  <details>
+    <summary>Science</summary>
+
+    - Mathematics
+
+    - Physics
+
+    - Quantum physics
+
+      [Click to see online course :book: &#127760; ](https://www.youtube.com/watch?v=5aJD3g8ZIRo&list=PLLKYEqxsYB_cP2-dMUmn_ISU2kuG7YsSq&pp=iAQB)
+  
+  </details>
+
+  <details>
+    <summary>Technology</summary>
+
+    - Machine Learning
+
+    - 
+
+  </details>
 
 - 🗺️ Mexican
 
 - 📫 feerperez1214@gmail.com
+
+# Knowledges
+
+<details>
+  <summary>Mathematics</summary>
+
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>🌱 Branch</b></td>
+        <td><b>⭐ Branch Level</b></td>
+        <td><b>🏆 Student level</b></td>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td><b>Calculus</b></td>
+      <td><b>Level II</b></td>
+      <td><b>60%</b></td>
+    </tr>
+    <tr>
+      <td><b>Linear algebra</b></td>
+      <td><b>Level I</b></td>
+      <td><b>10%</b></td>
+    </tr>
+    <tr>
+      <td><b>Statistics</b></td>
+      <td><b>Level I</b></td>
+      <td><b>10%</b></td>
+    </tr>
+    </tbody>
+  </table>
+
+</details>
+
+<details>
+  <summary>Physics</summary>
+
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>🌱 Branch</b></td>
+        <td><b>⭐ Branch Level</b></td>
+        <td><b>🏆 Student level</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>Quantum mechanics</b></td>
+        <td><b>Level I</b></td>
+        <td><b>30%</b></td>
+      </tr>
+      <tr>
+        <td><b>Classical physics</b></td>
+        <td><b>Level I</b></td>
+        <td><b>70%</b></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 # Skills
 
 - Working harder and smarter
 - Team working
 - Good communication
+- Creativity
 
-<h1> Current projects </h1>
+# Current projects
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code1O&repo=scorpion)](https://github.com/code1O/scorpion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code1O&repo=ai_automat)](https://github.com/code1O/ai_automat)
@@ -44,7 +124,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Scorpion</b></a></td>
+      <td><a href="https://github.com/madushadhanushka/differ"><b>scorpion</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/code1O/scorpion?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/code1O/scorpion?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Commits" src="https://img.shields.io/github/commit-activity/w/code1O/scorpion
@@ -73,7 +153,12 @@
 
 </details>
 
+
 # Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+# Github Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code1O&theme=tokyonight" alt="mystreak"/>
