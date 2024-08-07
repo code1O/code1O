@@ -1,19 +1,8 @@
 ![header](Assets/Images/github-header-image.png)
 
-<details>
-
-<summary><h2>Currently listening to...</h2></summary>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=wxy3fzoxc2wmnxmvua31vnb7w&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=wxy3fzoxc2wmnxmvua31vnb7w&redirect=true)
-
-</details>
-
-</section>
-
 - 💻 Python developer
 
-  
-- 📖 Learning</summary>
+- 📖 Learning
 
   <details>
     <summary>Science</summary>
@@ -33,7 +22,7 @@
 
     - Machine Learning
 
-    - 
+    - ``React`` App development
 
   </details>
 
@@ -108,7 +97,9 @@
 - Good communication
 - Creativity
 
-# Current projects
+<details>
+
+<summary><h1>Current projects</h1></summary>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code1O&repo=scorpion)](https://github.com/code1O/scorpion)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code1O&repo=ai_automat)](https://github.com/code1O/ai_automat)
@@ -140,24 +131,7 @@
   </tbody>
 </table>
 
-<details>
-<summary><h1>Usefull videos (spanish)</h1></summary>
-
-## Mejorar lógica de programación
-
-[![Lógica de programación](https://img.youtube.com/vi/hulbbKgctSM/0.jpg)](https://www.youtube.com/watch?v=hulbbKgctSM)
-
-## Escribir funciones
-
-[![Escribir funciones](https://img.youtube.com/vi/yatgY4NpZXE/0.jpg)](https://www.youtube.com/watch?v=yatgY4NpZXE)
-
 </details>
-
-
-# Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 # Github Stats
 
