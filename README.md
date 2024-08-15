@@ -136,3 +136,6 @@
 # Github Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=code1O&theme=tokyonight" alt="mystreak"/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
